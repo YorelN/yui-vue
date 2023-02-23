@@ -2,6 +2,7 @@
   export interface ButtonProps {
     variant?: string;
     dark?: boolean;
+
     color?: string;
   }
 
